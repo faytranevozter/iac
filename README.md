@@ -27,3 +27,4 @@ less common or more advanced commands. If you're just getting
 started with Terraform, stick with the common commands. For the
 other commands, please read the help and docs before usage.
 ```
+![Cek](https://raw.githubusercontent.com/faytranevozter/iac/master/Screenshot%20from%202018-12-13%2018-17-20.png)
